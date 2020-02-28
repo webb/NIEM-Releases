@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<xs:schema targetNamespace="http://publication.niem.gov/niem/codes/dea_ctlsub/4.0/2/" version="1" xsi:schemaLocation="http://release.niem.gov/niem/appinfo/4.0/ ../../../../utility/appinfo/4.0/appinfo.xsd http://release.niem.gov/niem/conformanceTargets/3.0/ ../../../../utility/conformanceTargets/3.0/conformanceTargets.xsd" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument" xmlns:appinfo="http://release.niem.gov/niem/appinfo/4.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dea-4.0.2="http://publication.niem.gov/niem/codes/dea_ctlsub/4.0/2/" xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/" xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:appinfo="http://release.niem.gov/niem/appinfo/4.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dea-4.0.2="http://publication.niem.gov/niem/codes/dea_ctlsub/4.0/2/" xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/" xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://publication.niem.gov/niem/codes/dea_ctlsub/4.0/2/" version="1" xsi:schemaLocation="http://release.niem.gov/niem/appinfo/4.0/ ../../../../utility/appinfo/4.0/appinfo.xsd http://release.niem.gov/niem/conformanceTargets/3.0/ ../../../../utility/conformanceTargets/3.0/conformanceTargets.xsd" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument">
   <xs:annotation>
     <xs:documentation>U.S. Drug Enforcement Administration (DEA) controlled substance codes</xs:documentation>
   </xs:annotation>
@@ -56,7 +56,7 @@
       </xs:enumeration>
       <xs:enumeration value="1246">
         <xs:annotation>
-          <xs:documentation>Pentedrone (&#x3b1;-methylaminovalerophenone)</xs:documentation>
+          <xs:documentation>Pentedrone (α-methylaminovalerophenone)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="1248">
@@ -646,17 +646,17 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>4-chloro-17&#x3b1;-methyl-17&#x3b2;-hydroxy-androst-4-en-3-one</xs:documentation>
+          <xs:documentation>4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>[3,2-c]-furazan-5&#x3b1;-androstan-17&#x3b2;-ol</xs:documentation>
+          <xs:documentation>[3,2-c]-furazan-5α-androstan-17β-ol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>[3,2-c]pyrazole-androst-4-en-17&#x3b2;-ol</xs:documentation>
+          <xs:documentation>[3,2-c]pyrazole-androst-4-en-17β-ol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -691,7 +691,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b1;-Methyl-5&#x3b1;-androstan-17&#x3b2;-ol</xs:documentation>
+          <xs:documentation>17α-Methyl-5α-androstan-17β-ol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -741,27 +741,27 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b1;-methyl-androst-2-ene-3,17&#x3b2;-diol</xs:documentation>
+          <xs:documentation>17α-methyl-androst-2-ene-3,17β-diol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b1;-methyl-androsta-1,4-diene-3,17&#x3b2;-diol</xs:documentation>
+          <xs:documentation>17α-methyl-androsta-1,4-diene-3,17β-diol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b1;-Methyl-androstan-3-hydroxyimine-17&#x3b2;-ol</xs:documentation>
+          <xs:documentation>17α-Methyl-androstan-3-hydroxyimine-17β-ol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b2;-Hydroxy-androstano[2,3-d]isoxazole</xs:documentation>
+          <xs:documentation>17β-Hydroxy-androstano[2,3-d]isoxazole</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>17&#x3b2;-Hydroxy-androstano[3,2-c]isoxazole</xs:documentation>
+          <xs:documentation>17β-Hydroxy-androstano[3,2-c]isoxazole</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -806,12 +806,12 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>2&#x3b1;,17&#x3b1;-dimethyl-17&#x3b2;-hydroxy-5&#x3b2;-androstan-3-one</xs:documentation>
+          <xs:documentation>2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>2&#x3b1;,3&#x3b1;-epithio-17&#x3b1;-methyl-5&#x3b1;-androstan-17&#x3b2;-ol</xs:documentation>
+          <xs:documentation>2α,3α-epithio-17α-methyl-5α-androstan-17β-ol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -841,7 +841,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>3&#x3b2;-hydroxy-estra-4,9,11-trien-17-one</xs:documentation>
+          <xs:documentation>3β-hydroxy-estra-4,9,11-trien-17-one</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -876,7 +876,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>4-chloro-17&#x3b1;-methyl-17&#x3b2;-hydroxy-androst-4-ene-3,11&#xad;dione</xs:documentation>
+          <xs:documentation>4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11­dione</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -891,7 +891,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>4-chloro-17&#x3b1;-methyl-androst-4-ene-3&#x3b2;,17&#x3b2;-diol</xs:documentation>
+          <xs:documentation>4-chloro-17α-methyl-androst-4-ene-3β,17β-diol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -901,7 +901,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>4-chloro-17&#x3b1;-methyl-androsta-1,4-diene-3,17&#x3b2;-diol</xs:documentation>
+          <xs:documentation>4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -976,7 +976,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>5&#x3b1;-Androstan-3,6,17-trione</xs:documentation>
+          <xs:documentation>5α-Androstan-3,6,17-trione</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -1011,7 +1011,7 @@
       </xs:enumeration>
       <xs:enumeration value="4000">
         <xs:annotation>
-          <xs:documentation>6&#x3b1;-Methyl-androst-4-ene-3,17-dione</xs:documentation>
+          <xs:documentation>6α-Methyl-androst-4-ene-3,17-dione</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="4000">
@@ -1076,7 +1076,7 @@
       </xs:enumeration>
       <xs:enumeration value="7010">
         <xs:annotation>
-          <xs:documentation>ADB&#x2013;FUBINACA (N-(1-amino-3,3-dimethyl-1-oxobutan&#xad;2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide)</xs:documentation>
+          <xs:documentation>ADB–FUBINACA (N-(1-amino-3,3-dimethyl-1-oxobutan­2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7011">
@@ -1101,7 +1101,7 @@
       </xs:enumeration>
       <xs:enumeration value="7020">
         <xs:annotation>
-          <xs:documentation>MDMB&#x2013;FUBINACA (Methyl 2-(1-(4-fluorobenzyl)-1H&#xad;indazole-3-carboxamido)-3,3-dimethylbutanoate)</xs:documentation>
+          <xs:documentation>MDMB–FUBINACA (Methyl 2-(1-(4-fluorobenzyl)-1H­indazole-3-carboxamido)-3,3-dimethylbutanoate)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7021">
@@ -1136,12 +1136,12 @@
       </xs:enumeration>
       <xs:enumeration value="7033">
         <xs:annotation>
-          <xs:documentation>5F&#x2013;AMB (Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3&#xad;carboxamido)-3-methylbutanoate)</xs:documentation>
+          <xs:documentation>5F–AMB (Methyl 2-(1-(5-fluoropentyl)-1H-indazole-3­carboxamido)-3-methylbutanoate)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7034">
         <xs:annotation>
-          <xs:documentation>5F&#x2013;ADB; 5F&#x2013;MDMB&#x2013;PINACA (Methyl 2-(1-(5&#xad;fluoropentyl)-1H-indazole-3-carboxamido)-3,3dimethylbutanoate)</xs:documentation>
+          <xs:documentation>5F–ADB; 5F–MDMB–PINACA (Methyl 2-(1-(5­fluoropentyl)-1H-indazole-3-carboxamido)-3,3dimethylbutanoate)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7035">
@@ -1161,7 +1161,7 @@
       </xs:enumeration>
       <xs:enumeration value="7042">
         <xs:annotation>
-          <xs:documentation>MDMB&#x2013;CHMICA, MMB&#x2013;CHMINACA (Methyl 2-(1&#xad;(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3dimethylbutanoate)</xs:documentation>
+          <xs:documentation>MDMB–CHMICA, MMB–CHMINACA (Methyl 2-(1­(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3dimethylbutanoate)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7044">
@@ -1181,7 +1181,7 @@
       </xs:enumeration>
       <xs:enumeration value="7049">
         <xs:annotation>
-          <xs:documentation>5F&#x2013;APINACA, 5F&#x2013;AKB48 (N-(adamantan-1-yl)-1-(5&#xad;fluoropentyl)-1H-indazole-3-carboxamide)</xs:documentation>
+          <xs:documentation>5F–APINACA, 5F–AKB48 (N-(adamantan-1-yl)-1-(5­fluoropentyl)-1H-indazole-3-carboxamide)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7081">
@@ -1486,7 +1486,7 @@
       </xs:enumeration>
       <xs:enumeration value="7446">
         <xs:annotation>
-          <xs:documentation>4&#xb4;-methyl-alpha-pyrrolidinohexiophenone (MPHP)</xs:documentation>
+          <xs:documentation>4´-methyl-alpha-pyrrolidinohexiophenone (MPHP)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7455">
@@ -1626,12 +1626,12 @@
       </xs:enumeration>
       <xs:enumeration value="7545">
         <xs:annotation>
-          <xs:documentation>alpha-pyrrolidinopentiophenone (&#x3b1;-PVP)</xs:documentation>
+          <xs:documentation>alpha-pyrrolidinopentiophenone (α-PVP)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7546">
         <xs:annotation>
-          <xs:documentation>alpha-pyrrolidinobutiophenone (&#x3b1;-PBP)</xs:documentation>
+          <xs:documentation>alpha-pyrrolidinobutiophenone (α-PBP)</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="7548">

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<xs:schema targetNamespace="http://release.niem.gov/niem/codes/dot_hazmat/4.0/" version="1" xsi:schemaLocation="http://release.niem.gov/niem/appinfo/4.0/ ../../../utility/appinfo/4.0/appinfo.xsd http://release.niem.gov/niem/conformanceTargets/3.0/ ../../../utility/conformanceTargets/3.0/conformanceTargets.xsd" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument" xmlns:appinfo="http://release.niem.gov/niem/appinfo/4.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hazmat="http://release.niem.gov/niem/codes/dot_hazmat/4.0/" xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/" xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:appinfo="http://release.niem.gov/niem/appinfo/4.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hazmat="http://release.niem.gov/niem/codes/dot_hazmat/4.0/" xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/" xmlns:structures="http://release.niem.gov/niem/structures/4.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://release.niem.gov/niem/codes/dot_hazmat/4.0/" version="1" xsi:schemaLocation="http://release.niem.gov/niem/appinfo/4.0/ ../../../utility/appinfo/4.0/appinfo.xsd http://release.niem.gov/niem/conformanceTargets/3.0/ ../../../utility/conformanceTargets/3.0/conformanceTargets.xsd" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument">
   <xs:annotation>
     <xs:documentation>Source: US Department of Transportation (DoT)
 Pipeline and Hazardous Materials Safetey Administration (PHMSA); 
-Publication: Title 49 CFR 172.101 Table&#xa0;(List of Hazardous Materials); 
+Publication: Title 49 CFR 172.101 Table (List of Hazardous Materials); 
 Date: 18 Jan 2012; 
 Source Updats: 18 Jan 2012; 
 http://www.phmsa.dot.gov/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf2031050248a0c/?vgnextoid=d84ddf479bd7d110VgnVCM1000009ed07898RCRD&amp;vgnextchannel=4f347fd9b896b110VgnVCM1000009ed07898RCRD&amp;vgnextfmt=print</xs:documentation>
@@ -10886,7 +10886,7 @@ http://www.phmsa.dot.gov/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf203105024
       </xs:enumeration>
       <xs:enumeration value="UN3258">
         <xs:annotation>
-          <xs:documentation>Elevated temperature solid, n.o.s., at or above 240 C, see &#xa7;173.247(h)(4).</xs:documentation>
+          <xs:documentation>Elevated temperature solid, n.o.s., at or above 240 C, see §173.247(h)(4).</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="UN3259">
