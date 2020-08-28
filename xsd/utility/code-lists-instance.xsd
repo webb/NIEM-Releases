@@ -2,7 +2,7 @@
 <xs:schema
     ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/5.0/#ReferenceSchemaDocument"
     targetNamespace="http://reference.niem.gov/niem/specification/code-lists/5.0/code-lists-instance/"
-    version="4.0"
+    version="5.0"
     xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/"
     xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
